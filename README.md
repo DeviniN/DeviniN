@@ -31,11 +31,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=DeviniN&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&rank_icon=github" height="160" alt="GitHub Stats" />
 
-  <br>
-  <span style="font-size: 24px;">👽</span>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeviniN&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeviniN&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" width="385" alt="Top Languages" />
 </div>
 
 
