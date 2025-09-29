@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Nicole and I'm a Web Developer Junior and artist, from São Paulo!!!</h2>
 
+---
+
 👽 Alien in disguise, exploring the human world of code.  
 🚀 Passionate about front-end development, with experience building dashboards, forms, and interactive tables.  
 🌌 Learning every day, from PHP layouts and Bootstrap designs to API integrations and dynamic UIs.  
@@ -9,6 +11,8 @@
 😴 Free time? Mostly playing or sleeping… even aliens need to recharge!  
 
 ###
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeviniN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -59,6 +63,8 @@
 ###
 
 <br clear="both">
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeviniN/DeviniN/output/pacman-contribution-graph-dark.svg">
