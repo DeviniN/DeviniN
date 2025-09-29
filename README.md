@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nicole and I'm a Web Developer and artist, from São Paulo!!!</h2>
+<h2 align="left">Hi 👋! My name is Nicole and I'm a Web Developer Junior and artist, from São Paulo!!!</h2>
 
 👽 Alien in disguise, exploring the human world of code.  
 🚀 Passionate about front-end development, with experience building dashboards, forms, and interactive tables.  
