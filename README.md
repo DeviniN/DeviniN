@@ -39,8 +39,13 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   <a href="https://discord.gg/eQkCQV2X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <p>ʚɞ</p>
+  <a href="https://www.linkedin.com/in/nicoluppi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <br><br>
 
   <img src="https://24.media.tumblr.com/4496dc422a728d4fee91ce85564865eb/tumblr_mewnle8dbB1rhwbx1o1_500.gif" width="300" alt="gif kawaii" />
