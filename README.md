@@ -4,7 +4,7 @@
 
 👽 Alien in disguise, exploring the human world of code.  
 🚀 Passionate about front-end development, with experience building dashboards, forms, and interactive tables.  
-🌌 Learning every day, from PHP layouts and Bootstrap designs to API integrations and dynamic UIs.  
+🌌 Learning every day, from silly layouts and Bootstrap designs to API integrations and dynamic UIs.  
 🛸 Always curious, studying hard to evolve — whether it’s tech challenges or real-world exams.  
 🎨 Artist at heart, creating with vectors or pixel art — passionate, imaginative, and fueled by creativity.  
 ✨ Open to collaboration, growth, and bringing a bit of cosmic creativity into every project.  
