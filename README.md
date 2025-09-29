@@ -6,7 +6,7 @@
 🛸 Always curious, studying hard to evolve — whether it’s tech challenges or real-world exams.  
 🎨 Artist at heart, creating with vectors or pixel art — passionate, imaginative, and fueled by creativity.  
 ✨ Open to collaboration, growth, and bringing a bit of cosmic creativity into every project.  
-😴 Free time? Mostly sleeping… even aliens need to recharge!  
+😴 Free time? Mostly playing or sleeping… even aliens need to recharge!  
 
 ###
 
